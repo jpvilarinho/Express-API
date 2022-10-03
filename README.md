@@ -15,7 +15,12 @@ Passos a serem seguidos:
 
 1º Clonar o repositório.
 https://github.com/jpvilarinho/Express-API.git
+
+2º Acessar o repositório com o seguinte comando:
+
+```
 cd express-api
+```
 
 2º Criar o arquivo .env com as seguintes informações:
 
