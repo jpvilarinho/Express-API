@@ -25,9 +25,9 @@ cd express-api
 2º Criar o arquivo .env com as seguintes informações:
 
 ```
-    DB_URL = localhost/my-employees
-    TEST_DB_URL = localhost/test-my-employees
-    PORT = 5000
+DB_URL = localhost/my-employees
+TEST_DB_URL = localhost/test-my-employees
+PORT = 5000
 ```
 
 3º Instalar as dependências com o seguinte comando no terminal:
